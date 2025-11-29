@@ -132,7 +132,7 @@ Documentación interactiva:
 ## 🧑‍💻 Autor
 
 **Abigail Muñoz**  
-[GitHub](https://github.com/abigailmunoz-glitch)  
-
-¿O **lo subís directamente a GitHub** desde la web?  
+[GitHub](https://github.com/abigailmunoz-glitch)
+¿O **lo subísb?  
 ¡**Con esto cerrás el examen con Excelencia**! 
+jnjnnccc
