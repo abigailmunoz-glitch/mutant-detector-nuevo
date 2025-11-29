@@ -29,7 +29,7 @@ Proyecto mejorado y completo que detecta si un humano es mutante basándose en s
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/abigailmunoz-glitch/mutant-detector.git
+git clone https://github.com/abigailmunoz-glitch/mutant-detector-nuevo.git
 cd mutant-detector
 ```
 
@@ -132,4 +132,4 @@ Documentación interactiva:
 ## 🧑‍💻 Autor
 
 **Abigail Muñoz**  
-[GitHub](https://github.com/abigailmunoz-glitch)
+[GitHub](https://github.com/abigailmunoz-glitch/mutant-detector-nuevo.git)
