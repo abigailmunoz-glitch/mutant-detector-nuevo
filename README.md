@@ -1,6 +1,3 @@
----
-
-```markdown
 #  Mutant Detector - Proyecto Mejorado
 
 ---
@@ -137,6 +134,5 @@ Documentación interactiva:
 **Abigail Muñoz**  
 [GitHub](https://github.com/abigailmunoz-glitch)  
 
-
 ¿O **lo subís directamente a GitHub** desde la web?  
-¡**Con esto cerrás el examen con Excelencia**! 🎉
+¡**Con esto cerrás el examen con Excelencia**! 
