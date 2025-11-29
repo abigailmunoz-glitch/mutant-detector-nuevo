@@ -105,7 +105,7 @@ cd mutant-detector
 ## Swagger UI
 
 Documentación interactiva:  
-👉 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 ---
 
