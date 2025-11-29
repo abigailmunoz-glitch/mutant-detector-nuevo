@@ -133,6 +133,3 @@ Documentación interactiva:
 
 **Abigail Muñoz**  
 [GitHub](https://github.com/abigailmunoz-glitch)
-
-¡**Con esto cerrás el examen con Excelencia**! 
-jnjnnccc
